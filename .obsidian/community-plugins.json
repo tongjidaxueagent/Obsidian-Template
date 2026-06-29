@@ -1,13 +1,16 @@
-[
-  "obsidian-style-settings",
-  "mysnippets-plugin",
-  "easy-typing-obsidian",
-  "obsidian42-brat",
-  "Enhanced-editing",
-  "obsidian-excalidraw-plugin",
-  "obsidian-linter",
-  "obsidian-git",
-  "obsidian-tasks-plugin",
-  "oz-clear-unused-images",
-  "obsidian-minimal-settings"
+﻿[
+    "obsidian-style-settings",
+    "mysnippets-plugin",
+    "easy-typing-obsidian",
+    "obsidian42-brat",
+    "Enhanced-editing",
+    "obsidian-excalidraw-plugin",
+    "obsidian-linter",
+    "obsidian-git",
+    "obsidian-tasks-plugin",
+    "oz-clear-unused-images",
+    "obsidian-minimal-settings",
+    "dataview",
+    "quickadd",
+    "templater-obsidian"
 ]
