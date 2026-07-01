@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/教程.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "教程"
+              "title": "未命名"
             }
           }
         ],
@@ -179,6 +179,16 @@
               "icon": "lucide-list",
               "title": "2026-06-29 的大纲"
             }
+          },
+          {
+            "id": "3549507dae853004",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
           }
         ]
       }
@@ -191,34 +201,67 @@
     "hiddenItems": {
       "markdown-importer:打开 Markdown 格式转换器": false,
       "workspaces:管理工作区布局": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "oz-clear-unused-images:Clear Unused Images": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "bd38384438b68ded",
   "lastOpenFiles": [
-    "README.md",
-    "Excalidraw/Drawing 2026-06-29 16.45.03.excalidraw.md",
-    "LICENSE.md",
-    "Excalidraw",
+    "Templater/Add-Big-Chars-Time.md",
+    "未命名.md",
+    "Templater/Add-PS-and-Time.md",
+    "Templater/Update-Date-and-Time.md",
+    "Templater/Add-Big-Chars.md",
     "未命名.base",
-    "2026-06-29.md",
-    "Obsidian/assets/Pasted image 20260202230956.png",
-    "Obsidian/assets/Pasted image 20260202230917.png",
-    "Obsidian/assets/Pasted image 20260114204533.png",
     "Obsidian/教程.md",
-    "Obsidian/讲解思路.md",
-    "Obsidian/assets",
-    "Obsidian",
-    "LICENSE"
+    "Templater/Save-selection-content.md",
+    "Templater/Add-Gradient-Header.md",
+    "Templater/Add-Big-Chars-Date.md",
+    "Templater-Scripts/To_Big_Chars.js",
+    "Templater-Scripts/Get_Today_History.js",
+    "Templater-Scripts/Sort_Tasks_Lines.js",
+    "Templater-Scripts/Get_Today_Date.js",
+    "Templater-Scripts/Get_Random_Gradient.js",
+    "Templater-Scripts/Get_Year_Progress.js",
+    "Templater-Scripts/Get_Weather.js",
+    "Templater-Scripts/Get_Sentence.js",
+    "Templater-Scripts/Get_Poems.js",
+    "Docs/Usages/Install-CSS-Snippets.md",
+    "Docs/Usages/How-to-Use-Callout.md",
+    "Docs/Usages/How-to-Use-Templater-Script.md",
+    "Docs/Usages/Dynamic-Insert-Code.md",
+    "Docs/Usages/Dataview-Custom-View.md",
+    "Docs/Templater/To-Big-Chars.md",
+    "Docs/Templater/Update-Date-and-Time.md",
+    "Docs/Templater/Sort-Tasks-Lines.md",
+    "Docs/Templater/Save-selection-content.md",
+    "Docs/Templater/Get-Year-Progress.md",
+    "Docs/Templater/Get-Weather.md",
+    "Docs/Templater/Get-Today-History.md",
+    "Docs/Templater/Get-Today-Date.md",
+    "Docs/Templater/Get-Poems.md",
+    "Docs/Templater/Get-Sentence.md",
+    "Docs/Templater/Generate-Tweet-Card.md",
+    "Docs/Templater/Add-Gradient-Header.md",
+    "Docs/images/Year-View.png",
+    "Docs/images/To-Big-Chars.png",
+    "Docs/images/Ticket-Card.png",
+    "Docs/images/Task-Progress.png",
+    "Docs/images/Strong-Strong.png",
+    "Docs/images/Stop-Callout-2.png",
+    "Docs/images/Stop-Callout-1.png",
+    "Docs/images/Split-Page-Callout.png",
+    "Docs/images/Paper-Index-Callout.png",
+    "Docs/images/Notes-Count-View.png"
   ]
 }
